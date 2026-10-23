@@ -52,8 +52,8 @@
   <img src="https://shields.io" alt="Figma">
   
   <br><transparent style="margin-top: 10px; display: block;"></transparent>
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
 
   <img src="https://shields.io" alt="Git">
   <img src="https://shields.io" alt="GitHub">
