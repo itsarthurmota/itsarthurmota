@@ -1,70 +1,91 @@
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header"/>
 
 <div align="center">
- 
-  <img src="https://giphy.com" width="300" alt="Tech Animation" style="border-radius: 8px; margin-bottom: 20px;">
 
-  <h1>Hi, I'm Arthur 👋</h1>
-  <h3>Systems Development Student at SENAI</h3>
-  
-  <p>Passionate about technology, clean code, and building efficient digital solutions.</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=09F721&width=435&lines=Welcome+to+my+works!+%F0%9F%91%BD%E2%80%8B)](https://git.io/typing-svg)
 
-
-  
-
-<br><hr><br>
-
-
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h2>🙋‍♂️ About Me</h2>
-      <ul>
-        <li>🎓 Currently studying <b>Systems Development</b> at <b>SENAI</b>.</li>
-        <li>💻 Developing robust logic with <b>Java</b> and building interactive web experiences with <b>JavaScript</b>.</li>
-        <li>🗄️ Experienced in database management using <b>MySQL</b>.</li>
-        <li>🎨 Designing user interfaces and prototypes in <b>Figma</b> before bringing them to code.</li>
-        <li>🐧 Comfortable working in <b>Linux</b> environments and managing version control with <b>Git/GitHub</b>.</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <h2>📊 GitHub Stats</h2>
-      <!-- Corrigido -->
-      <img height="150" src="https://vercel.app" alt="GitHub Stats"><br><br>
-      <img height="150" src="https://vercel.app" alt="Top Languages">
-    </td>
-  </tr>
-</table>
-
-<br><hr><br>
-
-
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-<div align="center">
-  
-  <img src="https://shields.io" alt="Java">
-  <img src="https://shields.io" alt="JavaScript">
-  <img src="https://shields.io" alt="HTML5">
-  <img src="https://shields.io" alt="CSS3">
-  
-  <br><transparent style="margin-top: 10px; display: block;"></transparent>
-
-
-  <img src="https://shields.io" alt="Figma">
-  
-  <br><transparent style="margin-top: 10px; display: block;"></transparent>
-  
-  
-
-  <img src="https://shields.io" alt="Git">
-  <img src="https://shields.io" alt="GitHub">
 </div>
 
-<br><br>
+## 👨‍💻 About Me
 
+🎓 Systems Development Student at SENAI
+
+🚀 Interested in backend, web development, and system creation
+
+🧠 Always learning new technologies and turning ideas into projects
+
+🎯 Seeking to evolve my skills and develop useful solutions
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
- 
-  <img src="https://vercel.app" width="100%" alt="Activity Graph">
-  <br><br>
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,androidstudio,spring" />
+
+</div>
+
+---
+
+## 🚀 Projects
+
+🐾 **SetupMaster** — SetupMaster is a project for managing tools and inventory in the metalworking sector.
+
+☕ **Java Projects** — Applications for practicing object-oriented programming, encapsulation, and inheritance.
+
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-LuccaMonteiro&show_icons=true&theme=dark&hide_border=true&title_color=800020&icon_color=800020&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-LuccaMonteiro&layout=compact&theme=dark&hide_border=true&title_color=800020" />
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+☕ Java & Object-Oriented Programming
+
+🌱 Spring Boot
+
+🌐 Web Development
+
+🗄️ Databases & MySQL
+
+🔧 Git & GitHub
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/itsarthurmota">
+
+<img src="https://img.shields.io/badge/GitHub-dev--LuccaMonteiro-800020?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
+
+</div>
+
+<div align="center">
+
+☕ **Building, learning, and evolving every day!**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=footer"/>
+
+
+
+
+ <br><br>
   <sub>⚡ "Talk is cheap. Show me the code." - Linus Torvalds</sub>
 </div>
