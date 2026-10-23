@@ -8,14 +8,8 @@
   
   <p>Passionate about technology, clean code, and building efficient digital solutions.</p>
 
+
   
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://shields.io" alt="Email">
-  </a>
-</div>
 
 <br><hr><br>
 
@@ -34,7 +28,7 @@
     </td>
     <td width="45%" valign="top" align="center">
       <h2>📊 GitHub Stats</h2>
-      <!-- Dynamic Stats Cards -->
+      <!-- Corrigido -->
       <img height="150" src="https://vercel.app" alt="GitHub Stats"><br><br>
       <img height="150" src="https://vercel.app" alt="Top Languages">
     </td>
@@ -54,12 +48,10 @@
   
   <br><transparent style="margin-top: 10px; display: block;"></transparent>
 
-
   <img src="https://shields.io" alt="MySQL">
   <img src="https://shields.io" alt="Figma">
   
   <br><transparent style="margin-top: 10px; display: block;"></transparent>
-
 
   <img src="https://shields.io" alt="Linux">
   <img src="https://shields.io" alt="Git">
@@ -70,6 +62,7 @@
 
 
 <div align="center">
+ 
   <img src="https://vercel.app" width="100%" alt="Activity Graph">
   <br><br>
   <sub>⚡ "Talk is cheap. Show me the code." - Linus Torvalds</sub>
