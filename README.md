@@ -53,7 +53,7 @@
   
   <br><transparent style="margin-top: 10px; display: block;"></transparent>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
+  
 
   <img src="https://shields.io" alt="Git">
   <img src="https://shields.io" alt="GitHub">
