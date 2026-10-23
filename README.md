@@ -8,7 +8,7 @@
 
 arthur@dev:~$ whoami
 
-Systems Development Student | Linux Enthusiast | Backend Developer
+Systems Development Student | Linux Enthusiast 
 
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14) ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624) ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 
