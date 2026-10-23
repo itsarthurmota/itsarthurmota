@@ -5,6 +5,8 @@
 <img src="https://raw.githubusercontent.com/itsarthurmota/itsarthurmota/main/assets/linux-terminal.gif" width="0" alt="Linux Terminal" />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hello%2C+World!+%F0%9F%90%A7;sudo+learn+%26%26+sudo+build)
+
+
 arthur@dev:~$ whoami
 
 Systems Development Student | Linux Enthusiast 
