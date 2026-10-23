@@ -1,4 +1,4 @@
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header"/>
 
 <div align="center">
 
@@ -34,16 +34,15 @@
 
 ☕ **Java Projects** — Applications for practicing object-oriented programming, encapsulation, and inheritance.
 
-
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-LuccaMonteiro&show_icons=true&theme=dark&hide_border=true&title_color=800020&icon_color=800020&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsarthurmota&show_icons=true&theme=dark&hide_border=true&title_color=800020&icon_color=800020&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-LuccaMonteiro&layout=compact&theme=dark&hide_border=true&title_color=800020" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsarthurmota&layout=compact&theme=dark&hide_border=true&title_color=800020" />
 
 </div>
 
@@ -69,7 +68,7 @@
 
 <a href="https://github.com/itsarthurmota">
 
-<img src="https://img.shields.io/badge/GitHub-dev--LuccaMonteiro-800020?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-itsarthurmota-800020?style=for-the-badge&logo=github&logoColor=white" />
 
 </a>
 
@@ -83,9 +82,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=footer"/>
 
+<br><br>
 
-
-
- <br><br>
+<div align="center">
   <sub>⚡ "Talk is cheap. Show me the code." - Linus Torvalds</sub>
 </div>
