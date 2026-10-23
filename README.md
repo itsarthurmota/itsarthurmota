@@ -48,12 +48,13 @@
   
   <br><transparent style="margin-top: 10px; display: block;"></transparent>
 
-  <img src="https://shields.io" alt="MySQL">
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://shields.io" alt="Figma">
   
   <br><transparent style="margin-top: 10px; display: block;"></transparent>
 
-  <img src="https://shields.io" alt="Linux">
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
   <img src="https://shields.io" alt="Git">
   <img src="https://shields.io" alt="GitHub">
 </div>
