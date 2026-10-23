@@ -40,7 +40,7 @@ Languages & Frameworks
 
 Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,figma" />
 
 </div>
 
