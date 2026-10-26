@@ -9,7 +9,7 @@
 
 arthur@dev:~$ whoami
 
-Systems Development Student | Linux Enthusiast 
+Systems Development Student 
 
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14) ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624) ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 
@@ -26,10 +26,16 @@ MISSION="Transform ideas into useful software"
 echo "Learning every day. Building one project at a time."
 
 🎓 Systems Development Student at SENAI
+
 🐧 Interested in Linux, open source, and the command line
+
 🚀 Focused on backend development, web technologies, and system creation
+
 🧠 Always exploring new tools and improving my programming skills
+
 🎯 Working toward building efficient, reliable, and useful solutions
+
+
 🛠️ $ ls /usr/bin | grep skills
 
 <div align="center">
@@ -45,7 +51,9 @@ Tools & Environment
 </div>
 
 🚀 $ ./projects.sh
+
 🐾 SetupMaster
+
 Industrial inventory management system
 
 A project focused on managing tools and inventory in the metalworking sector, helping organize resources and improve operational control.
@@ -71,10 +79,15 @@ Topics: Encapsulation · Inheritance · Classes and Objects
 
 📚 $ tail -f learning.log
 [IN PROGRESS] Java & Object-Oriented Programming
+
 [IN PROGRESS] Spring Boot
+
 [IN PROGRESS] Web Development
+
 [IN PROGRESS] Databases & MySQL
+
 [IN PROGRESS] Git & GitHub
+
 [EXPLORING]   Linux & Bash
 
 📫 $ connect --github
