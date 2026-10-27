@@ -8,7 +8,7 @@
 
 </div>
 
-🐧 $ cat about-me.txt
+root@arthur:~# cat about-me.txt
 #!/bin/bash
 
 NAME="Arthur"
@@ -17,13 +17,12 @@ ROLE="Systems Development Student at SENAI"
 
 INTERESTS="Backend, Web Development, Linux & Open Source"
 
-MISSION="Transform ideas into useful software"
 
 echo "Learning every day. Building one project at a time."
 
 
 
-🛠️ $ ls /usr/bin | grep skills
+root@arthur:~# ls /usr/bin | grep skills
 
 <div align="center">
 
@@ -38,7 +37,7 @@ Tools & Environment
 </div>
 
 
-🚀 $ ./projects.sh
+root@arthur:~# ./projects.sh
 
 🐾 SetupMaster:
 
@@ -55,7 +54,7 @@ Java applications developed to practice programming fundamentals and strengthen 
 
 Topics: Encapsulation · Inheritance · Classes and Objects
 
-📊 $ git status --short
+root@arthur:~# git status --short
 
 <div align="center">
 
@@ -66,7 +65,7 @@ Topics: Encapsulation · Inheritance · Classes and Objects
 </div>
 
 
-📚 $ tail -f learning.log
+root@arthur:~# tail -f learning.log
 
 [IN PROGRESS] Java & Object-Oriented Programming
 
@@ -81,7 +80,7 @@ Topics: Encapsulation · Inheritance · Classes and Objects
 [EXPLORING]   Linux & Bash
 
 
-📫 $ connect --github
+root@arthur:~# connect --socialmeia
 
 <div align="center">
 
@@ -96,7 +95,7 @@ Topics: Encapsulation · Inheritance · Classes and Objects
 
 "Talk is cheap. Show me the code." — Linus Torvalds ⚡
 
-root@future-dev:~# exit
+root@arthur:~# exit
 
 </div>
 
