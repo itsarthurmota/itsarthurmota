@@ -22,8 +22,6 @@ MISSION="Transform ideas into useful software"
 echo "Learning every day. Building one project at a time."
 
 
-🐧 Interested in Linux, open source, and the command line
-
 🚀 Focused on backend development, web technologies, and system creation
 
 🧠 Always exploring new tools and improving my programming skills
@@ -73,6 +71,7 @@ Topics: Encapsulation · Inheritance · Classes and Objects
 </div>
 
 📚 $ tail -f learning.log
+
 [IN PROGRESS] Java & Object-Oriented Programming
 
 [IN PROGRESS] Spring Boot
