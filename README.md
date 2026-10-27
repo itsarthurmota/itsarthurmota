@@ -22,12 +22,6 @@ MISSION="Transform ideas into useful software"
 echo "Learning every day. Building one project at a time."
 
 
-🚀 Focused on backend development, web technologies, and system creation
-
-🧠 Always exploring new tools and improving my programming skills
-
-🎯 Working toward building efficient, reliable, and useful solutions
-
 
 🛠️ $ ls /usr/bin | grep skills
 
@@ -42,6 +36,7 @@ Tools & Environment
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,figma" />
 
 </div>
+
 
 🚀 $ ./projects.sh
 
@@ -70,6 +65,7 @@ Topics: Encapsulation · Inheritance · Classes and Objects
 
 </div>
 
+
 📚 $ tail -f learning.log
 
 [IN PROGRESS] Java & Object-Oriented Programming
@@ -84,6 +80,7 @@ Topics: Encapsulation · Inheritance · Classes and Objects
 
 [EXPLORING]   Linux & Bash
 
+
 📫 $ connect --github
 
 <div align="center">
@@ -94,9 +91,10 @@ Topics: Encapsulation · Inheritance · Classes and Objects
 
 <div align="center">
 
+
 🐧 while (alive) { learn(); build(); improve(); }
 
-"Talk is cheap. Show me the code." — Linus Torvalds
+"Talk is cheap. Show me the code." — Linus Torvalds ⚡
 
 root@future-dev:~# exit
 
