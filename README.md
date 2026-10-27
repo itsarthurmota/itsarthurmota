@@ -63,13 +63,21 @@ echo "Learning every day. Building one project at a time."
 [EXPLORING]   Linux & Bash
 ```
 
+```
 <span style="color: #39FF14;">root@arthur:~#</span> connect --socialmedia
 
 <div align="center">
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/arthur-mota-856668348/)
+<a href="https://www.linkedin.com/in/arthur-mota-856668348/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn - Connect" />
+</a>
+
+<a href="https://github.com/itsarthurmota" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="GitHub - Follow" />
+</a>
 
 </div>
+```
 
 <div align="center">
 
