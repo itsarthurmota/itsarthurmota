@@ -63,7 +63,7 @@ echo "Learning every day. Building one project at a time."
 [EXPLORING]   Linux & Bash
 ```
 
-```
+
 <span style="color: #39FF14;">root@arthur:~#</span> connect --socialmedia
 
 <div align="center">
@@ -77,7 +77,7 @@ echo "Learning every day. Building one project at a time."
 </a>
 
 </div>
-```
+
 
 <div align="center">
 
