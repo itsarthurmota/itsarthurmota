@@ -67,7 +67,7 @@ echo "Learning every day. Building one project at a time."
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Follow-itsarthurmota-0D1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/arthur-mota-856668348/)
 
 </div>
 
