@@ -8,8 +8,7 @@
 
 </div>
 
-root@arthur:~# cat about-me.txt
-#!/bin/bash
+<span style="color: red;">root@arthur:~# cat about-me.txt</span>
 
 NAME="Arthur"
 
@@ -20,9 +19,7 @@ INTERESTS="Backend, Web Development, Linux & Open Source"
 
 echo "Learning every day. Building one project at a time."
 
-
-
-root@arthur:~# ls /usr/bin | grep skills
+<span style="color: red;">root@arthur:~# ls /usr/bin | grep skills</span>
 
 <div align="center">
 
