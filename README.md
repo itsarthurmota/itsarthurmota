@@ -8,91 +8,76 @@
 
 </div>
 
-<span style="color: red;">root@arthur:~# cat about-me.txt</span>
-
+<span style="color: #39FF14;">root@arthur:~#</span> cat about-me.txt
+```bash
 NAME="Arthur"
-
 ROLE="Systems Development Student at SENAI"
-
 INTERESTS="Backend, Web Development, Linux & Open Source"
 
-
 echo "Learning every day. Building one project at a time."
+```
 
-<span style="color: red;">root@arthur:~# ls /usr/bin | grep skills</span>
+<span style="color: #39FF14;">root@arthur:~#</span> ls /usr/bin | grep skills
 
 <div align="center">
 
-Languages & Frameworks
-
+### Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql" />
 
-Tools & Environment
-
+### Tools & Environment
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,figma" />
 
 </div>
 
-
-root@arthur:~# ./projects.sh
-
+<span style="color: #39FF14;">root@arthur:~#</span> ./projects.sh
+```text
 🐾 SetupMaster:
-
-Industrial inventory management system
-
-A project focused on managing tools and inventory in the metalworking sector, helping organize resources and improve operational control.
-
-Focus: Inventory management · Systems development
+   Industrial inventory management system
+   A project focused on managing tools and inventory in the metalworking sector, 
+   helping organize resources and improve operational control.
+   > Focus: Inventory management · Systems development
 
 ☕ Java Projects:
-Object-oriented programming lab
+   Object-oriented programming lab
+   Java applications developed to practice programming fundamentals and strengthen 
+   my understanding of object-oriented software design.
+   > Topics: Encapsulation · Inheritance · Classes and Objects
+```
 
-Java applications developed to practice programming fundamentals and strengthen my understanding of object-oriented software design.
-
-Topics: Encapsulation · Inheritance · Classes and Objects
-
-root@arthur:~# git status --short
+<span style="color: #39FF14;">root@arthur:~#</span> git status --short
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsarthurmota&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&title_color=39FF14&icon_color=39FF14" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsarthurmota&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=39FF14" />
 
 </div>
 
-
-root@arthur:~# tail -f learning.log
-
+<span style="color: #39FF14;">root@arthur:~#</span> tail -f learning.log
+```ini
 [IN PROGRESS] Java & Object-Oriented Programming
-
 [IN PROGRESS] Spring Boot
-
 [IN PROGRESS] Web Development
-
 [IN PROGRESS] Databases & MySQL
-
 [IN PROGRESS] Git & GitHub
-
 [EXPLORING]   Linux & Bash
+```
 
-
-root@arthur:~# connect --socialmeia
+<span style="color: #39FF14;">root@arthur:~#</span> connect --socialmedia
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/Follow-itsarthurmota-0D1117?style=for-the-badge&logo=github&logoColor=39FF14)
+[![GitHub](https://img.shields.io/badge/Follow-itsarthurmota-0D1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com)
 
 </div>
 
 <div align="center">
 
+🐧 `while (alive) { learn(); build(); improve(); }`
 
-🐧 while (alive) { learn(); build(); improve(); }
+> "Talk is cheap. Show me the code." — Linus Torvalds ⚡
 
-"Talk is cheap. Show me the code." — Linus Torvalds ⚡
-
-root@arthur:~# exit
+<span style="color: #39FF14;">root@arthur:~#</span> exit
 
 </div>
 
