@@ -48,7 +48,7 @@ echo "Learning every day. Building one project at a time."
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsarthurmota&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&title_color=39FF14&icon_color=39FF14" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsarthurmota&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&title_color=39FF14&icon_color=39FF14&hide=stars,prs,issues,contribs)" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsarthurmota&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=39FF14" />
 
 </div>
