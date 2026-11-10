@@ -44,7 +44,6 @@ echo "Learning every day. Building one project at a time."
    > Topics: Encapsulation · Inheritance · Classes and Objects
 ```
 
-<span style="color: #39FF14;">root@arthur:~#</span> git status --short
 
 <div align="center">
 
@@ -81,7 +80,6 @@ echo "Learning every day. Building one project at a time."
 
 <div align="center">
 
-🐧 `while (alive) { learn(); build(); improve(); }`
 
 > "Talk is cheap. Show me the code." — Linus Torvalds ⚡
 
